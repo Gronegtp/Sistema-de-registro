@@ -4,3 +4,4 @@
 
 -para ejecutar el sistema debes poner: 
 ```npm rinstall react```
+sistema de registro 2
